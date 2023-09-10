@@ -1,5 +1,3 @@
-getkey.bom = {
-
 93JoeOs1Xq
 2fKUsF1QdH
 xLcFQ3VPMd
